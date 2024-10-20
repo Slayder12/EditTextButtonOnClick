@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EditTextButtonOnClick</string>
+    <string name="header">Всё наоборот</string>
+    <string name="input_text">Введите текст</string>
+    <string name="transform_value">Преобразовать</string>
+    <string name="result_text">Результат</string>
+</resources>
