@@ -22,7 +22,7 @@
 
 
 1. Файл разметки экрана
-[Файл разметки экрана](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/1-1.png)
+![Файл разметки экрана](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/1-1.png)
 
 3. Класс MainActivity
 
