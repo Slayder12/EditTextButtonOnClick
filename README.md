@@ -1,6 +1,5 @@
 Программа «Все наоборот»
 
-
 1. Создать заголовок на экране «Все наоборот»
 
 2. Создать поле ввода текста, размер 16sp, расположение – по центру, цвет текста – черный.
@@ -14,6 +13,7 @@
 Программа должна работать следующим образом. После ввода текста и нажатию на кнопку в поле «Результат» выводится фраза в реверсивном формате. В поле «Количество символов» выводится общее количество введенных символов.
 
 Сделать три скрина:
+
 1. Файл разметки экрана
 2. Класс MainActivity
 3. Результат работы эмулятора
@@ -21,14 +21,11 @@
 Дополнительно: попытаться подключить Git. Сохранить проект на удаленном репозитории. Прислать ссылку преподавателю для проверки правильности выполненного задания.
 
 1.Файл разметки экрана
-![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/1-1.png)
-![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/1-2.png)
+![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/assets/1-1.png)
+![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/assets/1-2.png)
 
 2.Класс MainActivity
-![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/2.png)
+![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/assets/2.png)
 
 3.Результат работы эмулятора
-![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/3.png)
-   
-
-
+![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/assets/3.png)
