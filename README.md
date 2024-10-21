@@ -19,11 +19,14 @@
 3. Результат работы эмулятора
 
 Дополнительно: попытаться подключить Git. Сохранить проект на удаленном репозитории. Прислать ссылку преподавателю для проверки правильности выполненного задания.
+
 1.Файл разметки экрана
 ![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/1-1.png)
 ![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/1-2.png)
+
 2.Класс MainActivity
 ![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/2.png)
+
 3.Результат работы эмулятора
 ![](https://github.com/Slayder12/edit_text_button_on_click/blob/main/Screenshots/3.png)
    
